@@ -11,5 +11,6 @@
 <!-- <a href="home.do">HOME</a> -->
 <a href="boardlist.do">글목록</a>
 안녕안녕
+안녕안녕안녕
 </body>
 </html>
