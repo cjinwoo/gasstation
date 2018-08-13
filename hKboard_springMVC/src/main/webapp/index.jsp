@@ -8,6 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+안녕안녕
 <!-- <a href="home.do">HOME</a> -->
 <a href="boardlist.do">글목록</a>
 </body>
